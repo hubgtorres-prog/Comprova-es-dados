@@ -1,3 +1,6 @@
+git rm README_EXCEL.md README_SQL.md README_VIZ.md README_jupyter.md
+git commit -m "Removendo READMEs desnecessários"
+git push origin main
 ,,,,,,,,
 Analise inicial,,,,,,,,
 ,,,,,,,,
@@ -131,4 +134,5 @@ Ação estrategicas ,,,,,,,,
 ,,,,,,,,
 Focar estrategias de temperaturas frias e venda de jogos e alimentos  e roupas de inverno ,,,,,,,,
 Cupoum promocional para clientes Vips de quarta feira ,,,,,,,,
+
 "Cupoum promocional para clientes Não  Vips  para , segundas , terças e quartas .",,,,,,,,
